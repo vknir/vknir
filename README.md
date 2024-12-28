@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vknir
+- 👋 Hi, I’m Utkarsh Kumar
 - 👀 I’m interested in Web Development and gaming
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on any MERN stack projects
