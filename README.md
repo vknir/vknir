@@ -1,9 +1,9 @@
-Creating a profile README is a great way to showcase your skills, projects, and interests on GitHub. Below is an example of a profile README for your GitHub profile `vknir`. You can customize it further as per your preferences.
+
 
 ```markdown
 # Hi there, I'm Utkarsh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=vknir&color=blue)
+[Profile Views](https://komarev.com/ghpvc/?username=vknir&color=blue)
 
 ## 🚀 About Me
 
@@ -37,14 +37,10 @@ I'm a passionate developer with an interest in [your interests here, e.g., web d
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/utkarsh-kumar-55323b24a/))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/vkn1r)
 
-<!-- Add additional sections as needed -->
 
-```
 
-Replace placeholders like `[your interests here]`, `[technology or language you are learning]`, `[projects or areas where you seek collaboration]`, `[topics you are knowledgeable about]`, and `[your email or other contact methods]` with your actual details.
 
-Feel free to add more sections like "Projects", "Blogs", "Achievements", or any other information you want to highlight. You can also include links to your notable projects or contributions.
+
