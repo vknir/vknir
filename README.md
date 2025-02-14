@@ -3,7 +3,7 @@
 ```markdown
 # Hi there, I'm Utkarsh 👋
 
-[Profile Views](https://komarev.com/ghpvc/?username=vknir&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=vknir&color=blue)
 
 ## 🚀 About Me
 
